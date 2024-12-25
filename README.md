@@ -1,4 +1,4 @@
-# Avik Malladi Lazard Technical Project
+# Avik Malladi Walmart / Target Viz Technical Project
 
 In this repository, I have uploaded all of the content used to complete the technical portion of the Data Scientist Intern Technical project. 
 
